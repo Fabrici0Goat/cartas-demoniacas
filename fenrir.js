@@ -30,7 +30,7 @@ function exibir(){
             "poder": "3/3",
             "custo": "3/2 planície",
             "quantidade": "2",
-            "habilidade": "habilidade"
+            "habilidade": "clarão quando o rescue retriever entrar,coloque um marcador +1/+1 em cada outro soldado que voce controla.Previna todo o fano que seria causado a outros soldados atacantes que voce controla."
         },
         {
             "nome": "Oficial De Recrutamento",
@@ -62,7 +62,7 @@ function exibir(){
             "poder": "2/2",
             "custo": "2/1 planície",
             "quantidade": "1    ",
-            "habilidade": "habilidade"
+            "habilidade": "No inicio do combate,no seu turno, coloque um marcador +1/+1 na criatura alvo que voce controla.toda vez que outro soldados qye não seja uma ficha voce controla morree,crie uma ficha de criatura artefato soldado incolor 1/1"
         },
         {
             "nome": "Powerblade Do Veterano",
@@ -78,7 +78,7 @@ function exibir(){
             "poder": "-",
             "custo": "3",
             "quantidade": "2",
-            "habilidade": "habilidade"
+            "habilidade": "Desenterrar{2} ({2}: Retorne este card do seu cemitério para o campo de batalha. Ele ganha ímpeto. Exile-o no início da próxima etapa final ou se ele deixaria o campo de batalha. Desenterre apenas como um feitiço.)"
         },
         {
             "nome": "Comandante Kayla",
@@ -110,7 +110,7 @@ function exibir(){
             "poder": "-",
             "custo": "1 planície",
             "quantidade": "2",
-            "habilidade": "habilidade"
+            "habilidade": "Exile a criatura alvo com valor de mana menor ou igual ao número de Planícies que você controla. Seu controlador ganha 3 pontos de vida."
         },
         
         
